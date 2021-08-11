@@ -1,0 +1,6 @@
+generics\BaseClass.class
+pom\LoginPage.class
+pom\HomePage.class
+utils\Screenshot.class
+utils\ExcelData.class
+utils\ConfigProperty.class

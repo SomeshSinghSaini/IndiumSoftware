@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: LoginModule.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 200.556 sec <<< FAILURE!
+login(LoginModule.LoginTest)  Time elapsed: 31.456 sec  <<< FAILURE!
+java.lang.AssertionError: invalid credentials
+	at org.testng.Assert.fail(Assert.java:96)
+	at LoginModule.LoginTest.login(LoginTest.java:38)
+
+login(LoginModule.LoginTest)  Time elapsed: 37.848 sec  <<< FAILURE!
+java.lang.AssertionError: invalid credentials
+	at org.testng.Assert.fail(Assert.java:96)
+	at LoginModule.LoginTest.login(LoginTest.java:38)
+
